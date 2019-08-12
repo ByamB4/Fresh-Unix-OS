@@ -18,6 +18,6 @@ Installing sublime-text-3
 Installing winehq-4
  * `sudo dpkg --add-architecture i386`
  * `wget -qO - https://dl.winehq.org/wine-builds/winehq.key | sudo apt-key add -`
- * `sudo apt-add-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ disco main'`
+ * `sudo apt-add-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ xenial main'`
  * `sudo apt-get update`
  * `sudo apt-get install --install-recommends winehq-stable`
