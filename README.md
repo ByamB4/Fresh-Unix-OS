@@ -14,3 +14,10 @@ Installing sublime-text-3
  * `echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list`
  * `apt update`
  * `apt install sublime-text`
+ 
+Installing winehq-4
+ * `sudo dpkg --add-architecture i386`
+ * `wget -qO - https://dl.winehq.org/wine-builds/winehq.key | sudo apt-key add -`
+ * `sudo apt-add-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ disco main'`
+ * `sudo apt-get update`
+ * `sudo apt-get install --install-recommends winehq-stable`
