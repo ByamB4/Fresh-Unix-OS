@@ -6,8 +6,6 @@ sudo apt update && sudo apt upgrade && sudo apt full-upgrade && apt install binw
 `
 
 Installing gdb-peda
-
-`
-git clone https://github.com/longld/peda.git ~/peda
-echo "source ~/peda/peda.py" >> ~/.gdbinit
-`
+ * git clone https://github.com/longld/peda.git ~/peda
+ * echo "source ~/peda/peda.py" >> ~/.gdbinit
+ 
