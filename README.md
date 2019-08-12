@@ -2,7 +2,7 @@
 Компьютерээ порматлаад суулгах програм зэргийг багцлан бэлтгэв
 
 `
-sudo apt update && sudo apt upgrade && sudo apt full-upgrade && apt install binwalk && apt install foremost && apt install git && apt install exiftool && apt install && apt install pngcheck && apt install wine-development && apt install default-jdk && apt install xclip && apt install zsh && apt install terminator && apt install vim && apt install youtube-dl && apt-get install wine32-development && apt install python-pip && apt install python3-pip
+sudo apt update && sudo apt upgrade && sudo apt full-upgrade && apt install binwalk && apt install foremost && apt install git && apt install exiftool && apt install && apt install pngcheck && apt install wine-development && apt install default-jdk && apt install xclip && apt install zsh && apt install terminator && apt install vim && apt install youtube-dl && apt-get install wine32-development && apt install python-pip && apt install python3-pip && apt install tor
 `
 
 Installing gdb-peda
