@@ -37,3 +37,9 @@ Installing winehq-4
  * `sudo apt-add-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ xenial main'`
  * `sudo apt-get update`
  * `sudo apt-get install --install-recommends winehq-stable`
+
+Татах линк 
+------------------
+ * Burp suite Pro -> [https://drive.google.com/open?id=10RwrjnC4diW3nlGS0SBRpkR05L93zDOE](https://drive.google.com/open?id=10RwrjnC4diW3nlGS0SBRpkR05L93zDOE)
+ * IDA PRO        -> [https://drive.google.com/open?id=1alqfGr6w9RBoRWqMo_7GEvLhu8H8lkuc](https://drive.google.com/open?id=1alqfGr6w9RBoRWqMo_7GEvLhu8H8lkuc)
+ * StegSolve.jar  -> [https://drive.google.com/open?id=1VFn2ukSjw7YU8PeJNdR4KwndWBR1ejEY](https://drive.google.com/open?id=1VFn2ukSjw7YU8PeJNdR4KwndWBR1ejEY)
