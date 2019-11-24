@@ -5,6 +5,11 @@
 sudo apt update && sudo apt upgrade && sudo apt full-upgrade && apt install binwalk && apt install foremost && apt install git && apt install exiftool && apt install pngcheck && apt install wine-development && apt install default-jdk && apt install xclip && apt install zsh && apt install terminator && apt install vim && apt install youtube-dl && apt install wine32-development && apt install python-pip && apt install python3-pip && apt install tor && apt install eog && apt install ruby && gem install zsteg && sudo apt install gem && sudo pip install --upgrade setuptools && sudo apt install python-setuptools && sudo apt install python-dev && sudo apt-get install python3.6-dev libmysqlclient-dev && sudo pip3 install --upgrade pip setuptools wheel && apt install python2.7 python-pip python-dev git libssl-dev libffi-dev build-essential && apt install hexedit && apt install steghide && apt install npm && apt install stegsnow && apt install bless && apt install neko && apt install tcpflow && apt install imagemagick-6.q16 && apt install apktool && apt install pngtools && apt install gcc-multilib
 `
 
+Installing arc-dark theme
+ * `git clone https://github.com/horst3180/arc-theme --depth 1 && cd arc-theme`
+ * `./autogen.sh --prefix=/usr`
+ * `sudo make install`
+ 
 Installing gdb-peda
  * `git clone https://github.com/longld/peda.git ~/peda`
  * `echo "source ~/peda/peda.py" >> ~/.gdbinit`
