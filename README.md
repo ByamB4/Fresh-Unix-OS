@@ -43,12 +43,12 @@ Installing Slack
 
 Installing arc-dark theme
  * `git clone https://github.com/horst3180/arc-theme --depth 1 && cd arc-theme`
- * `./install.sh -a`
+ * `./autogen.sh --prefix=/usr`
+ * `sudo make install`
  
 Installing Tela-icon theme
  * `git clone https://github.com/vinceliuice/Tela-icon-theme.git`
- * `./autogen.sh --prefix=/usr`
- * `sudo make install`
+ * `./install.sh -a`
  
 Installing gdb-peda
  * `git clone https://github.com/longld/peda.git ~/peda`
