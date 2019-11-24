@@ -6,7 +6,9 @@ sudo apt update && sudo apt upgrade && sudo apt full-upgrade && apt install binw
 && apt install openshot-qt`
 
 Java -> `https://www.java.com/en/download/linux_manual.jsp`
+
 VMware -> https://www.vmware.com/go/getplayer-linux
+
 Installing Discord
  * `https://discordapp.com/download`
  * `apt install -f`
