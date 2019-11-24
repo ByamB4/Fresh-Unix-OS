@@ -42,6 +42,6 @@ Installing winehq-4
 
 Татах линк 
 ------------------
- * Burp suite Pro -> [https://drive.google.com/open?id=10RwrjnC4diW3nlGS0SBRpkR05L93zDOE](https://drive.google.com/open?id=10RwrjnC4diW3nlGS0SBRpkR05L93zDOE)
+ * Burp suite Pro -> [https://drive.google.com/uc?id=10RwrjnC4diW3nlGS0SBRpkR05L93zDOE&export=download](https://drive.google.com/uc?id=10RwrjnC4diW3nlGS0SBRpkR05L93zDOE&export=download)
  * IDA PRO        -> [https://drive.google.com/open?id=1alqfGr6w9RBoRWqMo_7GEvLhu8H8lkuc](https://drive.google.com/open?id=1alqfGr6w9RBoRWqMo_7GEvLhu8H8lkuc)
  * StegSolve.jar  -> [https://drive.google.com/open?id=1VFn2ukSjw7YU8PeJNdR4KwndWBR1ejEY](https://drive.google.com/open?id=1VFn2ukSjw7YU8PeJNdR4KwndWBR1ejEY)
