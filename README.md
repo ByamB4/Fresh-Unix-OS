@@ -16,7 +16,7 @@ Python
 CTF 
 
 `
-apt install binwalk && apt install foremost && apt install exiftool && apt install pngcheck && apt install wine-development && apt install wine32-development && apt install eog && apt install ruby && sudo apt install gem && sudo gem install zsteg && apt install hexedit && apt install steghide && apt install stegsnow && apt install bless && apt install tcpflow && apt install imagemagick-6.q16 && apt install pngtools 
+apt install binwalk -y && apt install foremost -y && apt install exiftool -y && apt install pngcheck -y && apt install wine-development -y && apt install wine32-development -y && apt install eog -y && apt install ruby -y && sudo apt install gem -y && sudo gem install zsteg -y && apt install hexedit -y && apt install steghide -y && apt install stegsnow -y && apt install bless -y && apt install tcpflow -y && apt install imagemagick-6.q16 -y && apt install pngtools -y  
 `
 
 
