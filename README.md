@@ -29,6 +29,11 @@ Dirbuster -> https://sourceforge.net/projects/dirbuster/
 
 VScode    -> https://code.visualstudio.com/download#
  
+Installing ohmyzsh
+ * `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+ * `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
+ * `plugins=(zsh-autosuggestions)`
+
 Installing Discord
  * `https://discordapp.com/download`
  * `apt install -f`
