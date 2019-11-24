@@ -4,10 +4,10 @@
 General 
 
 `
-sudo apt update && sudo apt upgrade && sudo apt full-upgrade && apt install git && apt install default-jdk && apt install xclip && apt install zsh && apt install terminator && apt install vim && apt install npm && apt install gcc-multilib && apt install openshot-qt`
+sudo apt update && sudo apt upgrade && sudo apt full-upgrade && apt install git -y && apt install default-jdk -y && apt install xclip && apt install zsh -y && apt install terminator -y && apt install vim -y && apt install npm -y && apt install gcc-multilib -y && apt install openshot-qt -y
+`
 
 CTF 
-
 
 `
 apt install binwalk && apt install foremost && apt install exiftool && apt install pngcheck && apt install wine-development && apt install wine32-development && apt install eog && apt install ruby && sudo apt install gem && sudo gem install zsteg && apt install hexedit && apt install steghide && apt install stegsnow && apt install bless && apt install tcpflow && apt install imagemagick-6.q16 && apt install pngtools 
@@ -27,6 +27,11 @@ Dirbuster -> https://sourceforge.net/projects/dirbuster/
 
 VScode    -> https://code.visualstudio.com/download#
 
+Installing ohmyzsh
+ * `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+ * `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
+ * `plugins=(zsh-autosuggestions)`
+ 
 Installing Discord
  * `https://discordapp.com/download`
  * `apt install -f`
