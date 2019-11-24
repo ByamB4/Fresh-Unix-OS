@@ -4,7 +4,7 @@
 General 
 
 `
-sudo apt update && sudo apt upgrade && sudo apt full-upgrade && apt install git -y && apt install default-jdk -y && apt install xclip && apt install zsh -y && apt install terminator -y && apt install vim -y && apt install npm -y && apt install gcc-multilib -y && apt install openshot-qt -y
+sudo apt update && sudo apt upgrade && sudo apt full-upgrade && apt install git -y && apt install default-jdk -y && apt install xclip && apt install zsh -y && apt install terminator -y && apt install vim -y && apt install npm -y && apt install gcc-multilib -y && apt install openshot-qt -y && apt install autoconf autogen -y
 `
 
 Python 
