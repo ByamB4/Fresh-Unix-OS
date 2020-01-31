@@ -10,7 +10,7 @@ sudo apt update && sudo apt upgrade && sudo apt full-upgrade && apt install git 
 Python 
 
 `
- apt install python-pip -y && apt install python3-pip -y && sudo pip install --upgrade setuptools -y && sudo apt install python-setuptools && sudo apt install python-dev -y && sudo apt-get install python3.6-dev libmysqlclient-dev -y && sudo pip3 install --upgrade pip setuptools wheel -y && apt install python2.7 python-pip python-dev git libssl-dev libffi-dev build-essential -y && apt install virtualenv -y
+ apt install python-pip -y && apt install python3-pip -y && sudo pip install --upgrade setuptools && sudo apt install python-setuptools && sudo apt install python-dev -y && sudo apt-get install python3.6-dev libmysqlclient-dev -y && sudo pip3 install --upgrade pip setuptools wheel && apt install python2.7 python-pip python-dev git libssl-dev libffi-dev build-essential -y && apt install virtualenv -y
 `
 
 CTF 
