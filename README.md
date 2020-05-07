@@ -14,13 +14,13 @@ Python
 
 CTF 
 
-```
+``
 sudo apt install binwalk -y && sudo apt install foremost -y && sudo apt install exiftool -y && sudo apt install pngcheck -y && sudo apt install wine-development -y && sudo apt install wine32-development -y && sudo apt install eog -y && sudo apt install ruby -y && sudo apt install gem -y && sudo gem install zsteg && sudo apt install hexedit -y && sudo apt install steghide -y && sudo apt install stegsnow -y && sudo apt install bless -y && sudo apt install tcpflow -y && sudo apt install imagemagick-6.q16 -y && sudo apt install pngtools -y  
-```
+``
 
 * Reverse Engineering Tools
   
-  * [Hopper](https://www.hopperapp.com/)
+    * [Hopper](https://www.hopperapp.com/)
 
 
 Java      -> https://www.java.com/en/download/linux_manual.jsp
