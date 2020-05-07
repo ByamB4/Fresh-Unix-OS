@@ -3,7 +3,7 @@
 General 
 
 `
-sudo apt update && sudo apt upgrade && sudo apt full-upgrade && sudo apt install git -y && sudo apt install default-jdk -y && sudo apt install xclip && sudo apt install zsh -y && sudo apt install terminator -y && sudo apt install vim -y && sudo apt install npm -y && sudo apt install gcc-multilib -y && sudo apt install autoconf autogen -y && sudo apt install autoconf libtool -y && sudo apt install automake && sudo apt install libgtk-3-dev
+sudo apt update && sudo apt upgrade && sudo apt full-upgrade && sudo apt install git -y && sudo apt install default-jdk -y && sudo apt install xclip && sudo apt install zsh -y && sudo apt install terminator -y && sudo apt install vim -y && sudo apt install npm -y && sudo apt install gcc-multilib -y && sudo apt install autoconf autogen -y && sudo apt install autoconf libtool -y && sudo apt install automake && sudo apt install libgtk-3-dev && sudo apt install gimp
 `
 
 Python 
