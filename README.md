@@ -20,8 +20,10 @@ sudo apt install binwalk -y && sudo apt install foremost -y && sudo apt install 
 
 * Reverse Engineering Tools
   
+    * [Ghidra](https://ghidra-sre.org/)
     * [Hopper](https://www.hopperapp.com/)
-
+    * [Binary Ninja](https://binary.ninja/demo/)
+    * [Cutter](https://cutter.re/)
 
 Java      -> https://www.java.com/en/download/linux_manual.jsp
 
