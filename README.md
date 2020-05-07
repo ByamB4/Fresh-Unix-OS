@@ -3,19 +3,19 @@
 General 
 
 `
-sudo apt update && sudo apt upgrade && sudo apt full-upgrade && apt install git -y && apt install default-jdk -y && apt install xclip && apt install zsh -y && apt install terminator -y && apt install vim -y && apt install npm -y && apt install gcc-multilib -y && apt install autoconf autogen -y && apt install autoconf libtool -y && apt install automake && apt install libgtk-3-dev
+sudo apt update && sudo apt upgrade && sudo apt full-upgrade && sudo apt install git -y && sudo apt install default-jdk -y && sudo apt install xclip && sudo apt install zsh -y && sudo apt install terminator -y && sudo apt install vim -y && sudo apt install npm -y && sudo apt install gcc-multilib -y && sudo apt install autoconf autogen -y && sudo apt install autoconf libtool -y && sudo apt install automake && sudo apt install libgtk-3-dev
 `
 
 Python 
 
 `
- apt install python-pip -y && apt install python3-pip -y && sudo pip install --upgrade setuptools && sudo apt install python-setuptools && sudo apt install python-dev -y && sudo apt-get install python3.6-dev libmysqlclient-dev -y && sudo pip3 install --upgrade pip setuptools wheel && apt install python2.7 python-pip python-dev git libssl-dev libffi-dev build-essential -y && apt install virtualenv -y
+ sudo apt install python-pip -y && sudo apt install python3-pip -y && sudo pip install --upgrade setuptools && sudo apt install python-setuptools && sudo apt install python-dev -y && sudo apt-get install python3.6-dev && sudo pip3 install --upgrade pip setuptools wheel && sudo apt install python2.7 python-pip python-dev git libssl-dev libffi-dev build-essential -y && sudo apt install virtualenv -y
 `
 
 CTF 
 
 `
-apt install binwalk -y && apt install foremost -y && apt install exiftool -y && apt install pngcheck -y && apt install wine-development -y && apt install wine32-development -y && apt install eog -y && apt install ruby -y && sudo apt install gem -y && sudo gem install zsteg && apt install hexedit -y && apt install steghide -y && apt install stegsnow -y && apt install bless -y && apt install tcpflow -y && apt install imagemagick-6.q16 -y && apt install pngtools -y  
+sudo apt install binwalk -y && sudo apt install foremost -y && sudo apt install exiftool -y && sudo apt install pngcheck -y && sudo apt install wine-development -y && sudo apt install wine32-development -y && sudo apt install eog -y && sudo apt install ruby -y && sudo apt install gem -y && sudo gem install zsteg && sudo apt install hexedit -y && sudo apt install steghide -y && sudo apt install stegsnow -y && sudo apt install bless -y && sudo apt install tcpflow -y && sudo apt install imagemagick-6.q16 -y && sudo apt install pngtools -y  
 `
 
 
