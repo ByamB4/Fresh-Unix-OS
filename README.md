@@ -1,4 +1,3 @@
-# Шинэ үйлдлийн систем == шинэ амьдрал :)
 Компьютерээ порматлаад суулгах програм зэргийг багцлан бэлтгэв
 
 General 
@@ -51,8 +50,8 @@ Installing Tela-icon theme
  * `./install.sh -a`
  
 Installing gdb-peda
- * `git clone https://github.com/longld/peda.git ~/peda`
- * `echo "source ~/peda/peda.py" >> ~/.gdbinit`
+ * `git clone https://github.com/longld/peda.git ~/.peda`
+ * `echo "source ~/.peda/peda.py" >> ~/.gdbinit`
  
 Installing sublime-text-3
  * `wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -`
