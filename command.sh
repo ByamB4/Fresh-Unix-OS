@@ -1,17 +1,26 @@
 #!/bin/bash
 
-# GENERAL
-function bachelor() {
-  cd /home/l3yam134/Documents/Bachelor;
+# Path
+function doc() {
+  cd ~/Documents/;
 }
-function docu() {
-  cd ~/Documents;
+function dow() {
+  cd ~/Download/;
+}
+function bch() {
+  cd /home/l3yam134/Documents/MUST-Bachelor;
 }
 function ctf() {
   cd ~/Documents/CTF;
 }
-function project() {
+function prj() {
   cd ~/Documents/Projects;
+}
+function htb() {
+  cd ~/Documents/Hack-The-Box;
+}
+function thm() {
+  cd ~/Documents/Try-Hack-Me;
 }
 
 # CTF - Commands
@@ -54,3 +63,4 @@ function misc() {
 function stego() {
   cd ~/Documents/CTF/$ctfdir/stego;
 }
+
