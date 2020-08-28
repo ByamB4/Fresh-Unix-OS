@@ -5,7 +5,7 @@ function doc() {
   cd ~/Documents/;
 }
 function dow() {
-  cd ~/Download/;
+  cd ~/Downloads/;
 }
 function bch() {
   cd /home/l3yam134/Documents/MUST-Bachelor;
