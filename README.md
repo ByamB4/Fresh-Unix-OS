@@ -2,14 +2,14 @@
 
 **Adding ohmyzsh to zsh**
 
-    # Installing ohmyzsh
-    * `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+  Installing ohmyzsh
+  * `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
   
-    # Installing plugins (autosuggestions) 
-    * `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
+  Installing plugins (autosuggestions) 
+  * `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
     
-    # Edit `~/.zshrc`, also you can find file it from [here](https://github.com/ByamB4/Fresh-Unix-OS/blob/master/~/.zshrc).
-    * `plugins=(zsh-autosuggestions)` 
+  Edit `~/.zshrc`, also you can find file it from [here](https://github.com/ByamB4/Fresh-Unix-OS/blob/master/~/.zshrc).
+  * `plugins=(zsh-autosuggestions)` 
  
 **Adding Arc-dark theme**
 
