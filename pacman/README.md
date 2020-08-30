@@ -1,8 +1,8 @@
 > Please read packages first
 
-**Library scripts**
+**General**
 
-`sudo pacman -S autoconf autogen libtool automake gcc-multilib --noconfirm`
+`sudo pacman -S autoconf autogen libtool automake gcc-multilib ltrace --noconfirm`
   
 **Software**
 
