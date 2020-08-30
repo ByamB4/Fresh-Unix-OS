@@ -2,7 +2,7 @@
 
 **General**
 
-`sudo pacman -S autoconf autogen libtool automake gcc-multilib ltrace strace gdb --noconfirm`
+`sudo pacman -S p7zip autoconf autogen libtool automake gcc-multilib ltrace strace gdb --noconfirm`
   
 **Software**
 
