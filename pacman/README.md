@@ -30,3 +30,7 @@
 
   * **General**
     * `sudo pacman -S nmap --noconfirm`
+
+**Wine**
+
+  * `sudo pacman -S wine`
