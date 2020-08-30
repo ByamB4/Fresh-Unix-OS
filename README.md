@@ -1,13 +1,15 @@
 > Generally this readme contains third party softwares, I highly suggest you start from apt or pacman.
 
-**Adding ohmyzsh**
+**Adding ohmyzsh to zsh**
 
-    Installing ohmyzsh
+    # Installing ohmyzsh
     * `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
   
-    Installing plugins (autosuggestions) 
+    # Installing plugins (autosuggestions) 
     * `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
-    * `plugins=(zsh-autosuggestions)`               # Edit `~/.zshrc`, also you can find file it from [here](https://github.com/ByamB4/Fresh-Unix-OS/blob/master/~/.zshrc). 
+    
+    # Edit `~/.zshrc`, also you can find file it from [here](https://github.com/ByamB4/Fresh-Unix-OS/blob/master/~/.zshrc).
+    * `plugins=(zsh-autosuggestions)` 
  
 **Adding Arc-dark theme**
 
