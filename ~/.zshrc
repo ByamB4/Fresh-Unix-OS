@@ -5,7 +5,8 @@ plugins=(zsh-autosuggestions)
 source $ZSH/oh-my-zsh.sh
 
 # Activating custom commands
-source ~/.command.sh
+source ~/.comdir.sh
+source ~/.comctf.sh
 
 # Shortcut alias
 alias xclip='xclip -selection clipboard'
