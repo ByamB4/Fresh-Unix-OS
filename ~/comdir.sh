@@ -2,6 +2,7 @@
 
 # Custom Directory changing commands
 # It's my path structure, so it might be different from yours
+# If you want follow me run /scripts/scrdir.sh first
 
 function doc() {
   cd ~/Documents/;
