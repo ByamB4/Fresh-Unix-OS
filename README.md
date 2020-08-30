@@ -5,10 +5,10 @@
     Installing ohmyzsh
     * `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
   
-    Installing plugins 
+    Installing plugins (autosuggestions) 
     * `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
-    * `plugins=(zsh-autosuggestions)`
-
+    * `plugins=(zsh-autosuggestions)`               # Edit `~/.zshrc`, also you can find file it from [here](https://github.com/ByamB4/Fresh-Unix-OS/blob/master/~/.zshrc). 
+ 
 **Adding Arc-dark theme**
 
  * `git clone https://github.com/horst3180/arc-theme --depth 1 && cd arc-theme`
