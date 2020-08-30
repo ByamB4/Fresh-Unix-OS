@@ -21,4 +21,20 @@ Python related
     * `sudo pacman -S python2 python-pip --noconfirm && pip install --upgrade setuptools && sudo pacman -S python-setuptools --noconfirm`
     
   * **Venv**
-    * `sudo pacman -S python-virtualenv python-pipenv --noconfirm` 
+    * `sudo pacman -S python-virtualenv python-pipenv --noconfirm`
+
+Utils 
+-
+
+`sudo pacman -S ruby rubygems --noconfirm`
+
+CTF related
+-
+  * **General**
+    * `sudo pacman -S binwalk foremost perl-image-exiftool hexedit bless --noconfirm`
+    
+Penetration related
+-
+
+  * **General**
+    * `sudo pacman -S nmap --noconfirm`
