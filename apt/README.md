@@ -1,8 +1,8 @@
 > Please read packages first
 
-**Library scripts**
+**Library**
 
-`sudo apt install gcc-multilib autoconf autogen autoconf libtool automake -y`
+`sudo apt install gcc-multilib g++-multilib autoconf autogen autoconf libtool automake -y`
 
 **General**
 
