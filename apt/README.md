@@ -15,7 +15,7 @@
 **Python related**
 
   * General
-    * `sudo apt install python2.7 python-pip python3-pip python-setuptools python-dev -y python3.6-dev && sudo pip install --upgrade setuptools && sudo pip3 install --upgrade pip setuptools wheel`
+    * `sudo apt install libpq-dev build-essential python2.7 python-pip python3-pip python-setuptools python-dev -y python3-dev && sudo pip install --upgrade setuptools && sudo pip3 install --upgrade pip setuptools wheel`
   * Venv
     * `sudo apt install virtualenv pipenv -y`
 
