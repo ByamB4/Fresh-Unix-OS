@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Custom Directory changing commands
-# It's my path structure, so it might be different from yours
-# If you want follow me run /scripts/scrdir.sh first
-
 function doc() {
   cd ~/Documents/;
 }
@@ -16,12 +12,6 @@ function bch() {
 function ctf() {
   cd ~/Documents/CTF;
 }
-function prj() {
-  cd ~/Documents/Projects;
-}
-function htb() {
-  cd ~/Documents/Hack-The-Box;
-}
-function thm() {
-  cd ~/Documents/Try-Hack-Me;
+function dev() {
+  cd ~/Documents/Developer;
 }
