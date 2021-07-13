@@ -14,7 +14,7 @@
 **Adding Arc-dark theme**
 
  * `git clone https://github.com/horst3180/arc-theme --depth 1 && cd arc-theme`
- * `./autogen.sh --prefix=/usr`
+ * `./autogen.sh --prefix=/usr --with-gnome=3.22`
  * `sudo make install`
 
 **Adding Tela-icon**
