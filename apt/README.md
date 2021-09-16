@@ -2,7 +2,7 @@
 
 **Library**
 
-`sudo apt install gcc-multilib g++-multilib autoconf autogen autoconf libtool automake -y`
+`sudo apt install autoconf gcc-multilib g++-multilib autoconf autogen autoconf libtool automake -y`
 
 **General**
 
