@@ -53,5 +53,5 @@
   * [StegSolve](https://drive.google.com/open?id=1VFn2ukSjw7YU8PeJNdR4KwndWBR1ejEY)
 
 **Web exploitation software**
-  * [Burp suite pro](https://drive.google.com/uc?id=10RwrjnC4diW3nlGS0SBRpkR05L93zDOE&export=download)
+  * [Burp suite pro](https://drive.google.com/file/d/1Kuu4XWobxPJN_XE_h0P5-NdQOZAQ8fgx/view?usp=sharing)
  
