@@ -8,14 +8,10 @@
 
 `sudo apt update && sudo apt upgrade && sudo apt full-upgrade && sudo apt install git default-jdk xclip vim`
 
-**Software**
-
-`sudo apt install gimp -y`
-
 **Python related**
 
   * General
-    * `sudo apt install libpq-dev build-essential python2.7 python3-pip python-setuptools python-dev-is-python2 -y python3-dev && sudo pip install --upgrade setuptools && sudo pip3 install --upgrade pip setuptools wheel`
+    * `sudo apt install libpq-dev build-essential python2.7 python3-pip python-setuptools python3-dev && sudo pip install --upgrade setuptools && sudo pip3 install --upgrade pip setuptools wheel`
   * Venv
     * `sudo apt install virtualenv pipenv -y`
 
