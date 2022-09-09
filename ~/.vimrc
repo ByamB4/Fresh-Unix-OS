@@ -62,19 +62,6 @@ set nostartofline               " Make j/k respect the columns
 set timeoutlen=500              " how long it wait for mapped commands
 set ttimeoutlen=100             " faster timeout for escape key and others
 
-
-" Use a bar-shaped cursor for insert mode, even through tmux.
-if exists('$TMUX')
-    let &t_SI = "\<Esc>Ptmux;\<Esc>\<Esc>]50;CursorShape=1\x7\<Esc>\\"
-    let &t_EI = "\<Esc>Ptmux;\<Esc>\<Esc>]50;CursorShape=0\x7\<Esc>\\"
-else
-    let &t_SI = "\<Esc>]50;CursorShape=1\x7"
-    let &t_EI = "\<Esc>]50;CursorShape=0\x7"
-endif
-
-
-
-
 " -----------------------------------------------------------------------------
 " UI
 " -----------------------------------------------------------------------------
