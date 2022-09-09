@@ -2,7 +2,7 @@
 
 **Library**
 
-`sudo apt install autoconf gcc-multilib g++-multilib autoconf autogen autoconf libtool automake -y bat`
+`sudo apt install autoconf gcc-multilib g++-multilib autogen autoconf libtool automake -y`
 
 **General**
 
@@ -13,7 +13,7 @@
   * General
     * `sudo apt install libpq-dev build-essential python2.7 python3-pip python-setuptools python3-dev && sudo pip install --upgrade setuptools && sudo pip3 install --upgrade pip setuptools wheel`
   * Venv
-    * `sudo apt install virtualenv pipenv -y`
+    * `sudo apt install virtualenv -y`
 
 **Utils**
 
