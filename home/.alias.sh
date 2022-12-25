@@ -37,14 +37,16 @@ alias ssh-aws='ssh -o StrictHostKeyChecking=no -i ~/.ssh/infosec-byamb4.pem ubun
 alias ssh-me='ssh l3yam134@192.168.0.74'
 
 # functions
-function settarget() {
-  if [ "$#" -ne 1 ]; then
-    echo "[-] Usage: settarget 1.1.1.1"
-    exit 2
+settarget() {
+  if test "$#" -ne 1; then
+    echo "[-] Usage: settarget 1.2.3.4"
+    return 1
   fi
-
-  grep -v 'export TARGET' ~/.exports.sh.bak
-  # grep -v 'TARGET' ~/.exports.sh.bak >~/.exports.sh.bak
-  # echo 'export TARGET="'$1'"' >>~/.exports.sh.bak
+  awk '!/TARGET/' ~/.exports.sh > /tmp/.exports.sh;
+  mv /tmp/.exports.sh ~/.exports.sh;
+  rm /tmp/.exports.sh;
+  echo 'export TARGET="'$1'"' >> ~/.exports.sh;
+  export TARGET="$1"
 }
+
 
