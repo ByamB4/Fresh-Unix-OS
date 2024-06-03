@@ -1,5 +1,5 @@
 export ZSH="/home/l3yam134/.oh-my-zsh"
-ZSH_THEME="minimal"
+ZSH_THEME="garyblessington"
 plugins=(zsh-autosuggestions)
 
 source $ZSH/oh-my-zsh.sh
