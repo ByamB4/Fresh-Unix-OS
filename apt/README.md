@@ -1,34 +1,34 @@
-> Please read packages first
+**general**
 
-**Library**
+```sh
+sudo apt update && sudo apt upgrade && sudo apt full-upgrade && sudo apt install ruby gem -y
+```
+
+**lib**
 
 `sudo apt install autoconf gcc-multilib g++-multilib autogen autoconf libtool automake -y`
 
-**General**
 
-`sudo apt update && sudo apt upgrade && sudo apt full-upgrade && sudo apt install git default-jdk xclip vim`
+**python**
 
-**Python related**
+```sh
+sudo apt install virtualenv -y
+virtualenv venv
+source venv/bin/activate
+```
 
-  * General
-    * `sudo apt install libpq-dev build-essential python2.7 python3-pip python-setuptools python3-dev && sudo pip install --upgrade setuptools && sudo pip3 install --upgrade pip setuptools wheel`
-  * Venv
-    * `sudo apt install virtualenv -y`
+**pwn**
 
-**Utils**
+```sh
+gem install one_gadget
+git clone https://github.com/pwndbg/pwndbg
+cd pwndbg
+./setup.sh
+```
 
-`sudo apt install ruby gem -y`
+**zsh**
 
-**CTF** 
-
-  * General
-    * `sudo apt install binwalk foremost exiftool pngcheck hexedit steghide stegsnow pngtools bless eog -y && sudo gem install zsteg`  
-
-**Wine**
-
-`sudo apt install wine-development wine32-development -y`
-
-**Penetration**
-
-  * General
-    * `sudo apt install nmap -y`
+```sh
+sudo apt install zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
