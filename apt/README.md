@@ -24,6 +24,7 @@ gem install one_gadget
 git clone https://github.com/pwndbg/pwndbg
 cd pwndbg
 ./setup.sh
+pip install pwntools
 pip install ropper
 pip install ROPgadget
 ```
